@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title>Mi Tarea De Experiencia de Usuario</title>
+	</head>
+	<body background="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/main_element/public/media/image/2019/09/crysis.jpg?itok=otRVvTRd" bgcolor="FFCECB">
+
+	<table width="550" bgcolor=FFCECB align=center>
+	<body>
+		
+		<p>Probando como funciona html.</p>
+		<p>Mi juego favorito Crysis.</p>
+		<p>Can you run Crysis?.<br>
+		si lo pude jugar en el 2009 casi a full a 30 fps min</p
+		<br>
+			<center>
+				<img src="https://www.crytek.com/frontend/9d2b2b154ff5d20ec972ab64e1b93bb0.jpg">
+			</center>
+		<br>
+		<a href="https://www.youtube.com/watch?v=PECqrhxhpTA">la potencia de un motor grafico del 2007 modificado</a>
+	</body>
+</html>
